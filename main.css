@@ -1,0 +1,29 @@
+h1 {
+  font-family: 'Pacifico', cursive;
+  padding: 1em
+
+
+}
+p {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 1em
+
+}
+
+
+h3 {
+  font-family: 'Pacifico', cursive;
+  padding-top: .25em
+}
+
+a {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+padding-top: 1em
+}
+a:hover {
+  color: red
+}
+hr {
+  border-width: thick;
+}
